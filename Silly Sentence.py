@@ -1,5 +1,5 @@
 from random import randint
-
+#NEW TEXT
 Nou=["Women","Paulino Marsupial","Airplane","South Korea","HIV","Brazil"]
 Ver=["Running","Driving","Bashing","Griddy-ing","Assaulting","Drinking"]
 Adj=["Collywobbles","Gullible","Colossal","Stocky","Yummy","Smart"]
