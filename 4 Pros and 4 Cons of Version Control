@@ -1,0 +1,11 @@
+# Pros 
+# 1. Can help with any backups of any kind of code.
+# 2. Restoring previous version of code.
+# 3. Helps with collaboration. 
+# 4. Makes code management more easy.
+
+# Cons
+# 1. Losing data.
+# 2. Can create conflicts in code.
+# 3. Exposing senstive data.
+# 4. Not following conventions like documenting your code and commits
